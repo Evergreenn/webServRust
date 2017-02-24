@@ -1,0 +1,6 @@
+[package]
+name = "webServRust"
+version = "0.1.0"
+authors = ["Evergreenn <evergreen@protonmail.ch>"]
+
+[dependencies]
